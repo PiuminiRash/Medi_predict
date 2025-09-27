@@ -14,16 +14,10 @@ clinical-doc-classifier/
 │  ├─ 1\_eda\_and\_preprocessing.ipynb
 │  ├─ 2\_classification\_modeling.ipynb
 │  └─ 3\_clustering\_analysis.ipynb
-├─ src/ # Python scripts
-│  ├─ data\_utils.py
-│  ├─ train.py
-│  ├─ eval.py
-│  ├─ clustering.py
-│  └─ serve\_predict.py
+|
 ├─ artifacts/ # Saved models
 │  └─ model.joblib
-├─ reports/ # Report template
-│  └─ technical\_report\_template.md
+|
 ├─ requirements.txt # Dependencies
 └─ README.md # This file
 
