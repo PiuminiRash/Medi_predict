@@ -170,5 +170,5 @@ Example response:
 ## 👩‍💻 Authors
 
 * Piumini Rashmika & Team
-  IJSE | HDSE 67/68 | Semester 4, 2025
+  IJSE | GDSE 67/ | Semester 4, 2025
 
