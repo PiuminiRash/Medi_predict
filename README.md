@@ -162,7 +162,7 @@ Example response:
 * **Notebooks** → EDA, modeling, clustering
 * **Artifacts** → `model.joblib`
 * **Scripts** → training, evaluation, clustering, REST API
-* **Report** → `reports/technical_report_template.md`
+* **Report** → [`MedArchive Solutions Report`](https://docs.google.com/document/d/1vbWUC-oR5e3oqYwvqyLEsZEzdIuQwtthw5Seg8XjAno/edit?usp=sharing)
 * **Presentation** → slides for stakeholders
 
 ---
